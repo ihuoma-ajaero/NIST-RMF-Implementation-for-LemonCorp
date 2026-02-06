@@ -1,7 +1,7 @@
 # NIST-RMF-Implementation-for-LemonCorp
 ### Introduction
 
-This project documents the end-to-end implementation of the NIST Risk Management Framework (RMF) for LemonCorp as defined in NIST Special Publication 800-37 Revision 2. The repository demonstrates how RMF is applied in practice to manage cybersecurity and privacy risk for an information system throughout its lifecycle.
+This project documents the end-to-end implementation of the NIST Risk Management Framework (RMF) for <a href="https://github.com/ihuoma-ajaero/LemonCorp/blob/main">LemonCorp</a> as defined in NIST Special Publication 800-37 Revision 2. The repository demonstrates how RMF is applied in practice to manage cybersecurity and privacy risk for an information system throughout its lifecycle.
 
 The RMF provides a structured, repeatable process for integrating security, privacy, and risk management activities into system development and operations. Through this project, each RMF step is methodically executed, documented, and supported with artifacts to reflect real-world governance, risk, and compliance (GRC) practices.
 
